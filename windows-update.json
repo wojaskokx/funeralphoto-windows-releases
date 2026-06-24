@@ -1,9 +1,9 @@
 {
-  "platform": "windows",
-  "minimum_supported_version": "1.0.0.0",
-  "latest_version": "1.0.0.0",
-  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/main/FuneralPhoto-Windows-1.0.0.0.zip",
-  "download_sha256": "71ef9d7b39c2f1bf04a808c863ec1933fedd03b807ca58613dfc330d3c1f1bca",
-  "release_notes": "Pierwszy publiczny kanał aktualizacji Windows dla FuneralPhoto.",
-  "force_update_message": "Ta wersja FuneralPhoto Windows nie jest już obsługiwana. Pobierz najnowszą wersję, aby kontynuować pracę."
+    "platform":  "windows",
+    "minimum_supported_version":  "1.0.0.0",
+    "latest_version":  "1.0.0.1",
+    "download_url":  "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/main/FuneralPhoto-Windows-1.0.0.0.zip",
+    "download_sha256":  "71ef9d7b39c2f1bf04a808c863ec1933fedd03b807ca58613dfc330d3c1f1bca",
+    "release_notes":  "Test pobierania aktualizacji Windows z publicznego kanału.",
+    "force_update_message":  "Ta wersja FuneralPhoto Windows nie jest juĹĽ obsĹ‚ugiwana. Pobierz najnowszÄ… wersjÄ™, aby kontynuowaÄ‡ pracÄ™."
 }
