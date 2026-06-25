@@ -1,9 +1,9 @@
 {
   "platform": "windows",
   "minimum_supported_version": "1.0.0.0",
-  "latest_version": "1.0.0.3",
-  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/4776a4bdf706f374fd2e68ebffba5a988dddde7a/FuneralPhoto-Windows-1.0.0.3.zip",
-  "download_sha256": "016ad5196de12728c88d56dd1f01456c8363dc90773c409d9772f3e1a333beed",
-  "release_notes": "Selecty w prawym panelu mają teraz rozciągnięty wewnętrzny chrome, więc nie kończą się na szerokości tekstu.",
-  "force_update_message": "Ta wersja FuneralPhoto Windows nie jest już obsługiwana. Aktualizacja zostanie pobrana i zainstalowana automatycznie."
+  "latest_version": "1.0.0.4",
+  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/7c96cac67a3a7354ad670346395e01504d922604/FuneralPhoto-Windows-1.0.0.4.zip",
+  "download_sha256": "c822e4968fd44c379819b651d033583e50c8b94ebd8b43b7def00edb46f3c1bd",
+  "release_notes": "Dodano obracanie zdjecia w pasku narzedzi oraz poprawiono pelnoszerokie selecty w prawym panelu.",
+  "force_update_message": "Ta wersja FuneralPhoto Windows nie jest juz obslugiwana. Aktualizacja zostanie pobrana i zainstalowana automatycznie."
 }
