@@ -1,9 +1,9 @@
 {
   "platform": "windows",
   "minimum_supported_version": "1.0.0.0",
-  "latest_version": "1.0.0.4",
-  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/7c96cac67a3a7354ad670346395e01504d922604/FuneralPhoto-Windows-1.0.0.4.zip",
-  "download_sha256": "c822e4968fd44c379819b651d033583e50c8b94ebd8b43b7def00edb46f3c1bd",
-  "release_notes": "Dodano obracanie zdjecia w pasku narzedzi oraz poprawiono pelnoszerokie selecty w prawym panelu.",
+  "latest_version": "1.0.0.5",
+  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/23bb3a26db3246e874db14ecad88f2ea87650699/FuneralPhoto-Windows-1.0.0.5.zip",
+  "download_sha256": "1373da3370c8d16b1c99bb1e032c40877ae0cfcbae8dd62dc4e8f9a3047cc307",
+  "release_notes": "Zsynchronizowano ceny AI z produkcja, zachowano koszt Ultra 2K na poziomie 8 punktow i utwardzono granty Supabase.",
   "force_update_message": "Ta wersja FuneralPhoto Windows nie jest juz obslugiwana. Aktualizacja zostanie pobrana i zainstalowana automatycznie."
 }
