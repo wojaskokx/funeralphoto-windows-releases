@@ -1,9 +1,9 @@
 {
   "platform": "windows",
   "minimum_supported_version": "1.0.0.0",
-  "latest_version": "1.0.0.1",
-  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/22f3aeb68f139bf23450076459deddd2a752b772/FuneralPhoto-Windows-1.0.0.1.zip",
-  "download_sha256": "af28b2ff0e70b05872d78b7ba173a2c2df6ad716bb7d300a99fe693695210ef5",
-  "release_notes": "Automatyczna aktualizacja Windows: pobieranie z paskiem postępu, podmiana plików i restart aplikacji.",
+  "latest_version": "1.0.0.2",
+  "download_url": "https://raw.githubusercontent.com/wojaskokx/funeralphoto-windows-releases/3a41f5075926daf00b9fbbdb4eea1b0b9048907d/FuneralPhoto-Windows-1.0.0.2.zip",
+  "download_sha256": "34b7298673da76b484cf051b4a7ed92d5f568e35de861bb0b3b7a2bab4ab721c",
+  "release_notes": "Poprawione selecty w prawym panelu: szerokie kontrolki WPF UI zamiast małych pigułek.",
   "force_update_message": "Ta wersja FuneralPhoto Windows nie jest już obsługiwana. Aktualizacja zostanie pobrana i zainstalowana automatycznie."
 }
